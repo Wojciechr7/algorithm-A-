@@ -7,14 +7,15 @@ using namespace std;
 
 int main()
 {
+
     Board board;
+
 
     board.writeBoard();
 
     Robot robot;
 
     Target target;
-
 
 
 

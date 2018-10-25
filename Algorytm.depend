@@ -34,3 +34,33 @@
 1540223315 d:\a\algorytm\include\target.h
 	"Position.h"
 
+1540442575 source:c:\users\robcyk\desktop\projects\algorytm\main.cpp
+	<iostream>
+	"include/Board.h"
+	"include/Robot.h"
+	"include/Target.h"
+
+1540226707 c:\users\robcyk\desktop\projects\algorytm\include\board.h
+	<iostream>
+	<fstream>
+
+1540226820 c:\users\robcyk\desktop\projects\algorytm\include\robot.h
+	"Position.h"
+
+1540226776 c:\users\robcyk\desktop\projects\algorytm\include\position.h
+
+1540226915 c:\users\robcyk\desktop\projects\algorytm\include\target.h
+	"Position.h"
+
+1540225994 source:c:\users\robcyk\desktop\projects\algorytm\src\board.cpp
+	"../include/Board.h"
+
+1540226634 source:c:\users\robcyk\desktop\projects\algorytm\src\position.cpp
+	"../include/Position.h"
+
+1540226834 source:c:\users\robcyk\desktop\projects\algorytm\src\robot.cpp
+	"../include/Robot.h"
+
+1540226941 source:c:\users\robcyk\desktop\projects\algorytm\src\target.cpp
+	"../include/Target.h"
+
