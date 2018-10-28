@@ -6,7 +6,7 @@
 class Target
 {
     public:
-        Target();
+        Target(int x, int y);
         virtual ~Target();
         Position pos;
     protected:

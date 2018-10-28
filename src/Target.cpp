@@ -1,10 +1,10 @@
 #include "../include/Target.h"
 
-Target::Target()
+Target::Target(int x, int y)
 {
     //ctor
-    Target::pos.x = 20;
-    Target::pos.y = 20;
+    Target::pos.x = x;
+    Target::pos.y = y;
 }
 
 Target::~Target()
