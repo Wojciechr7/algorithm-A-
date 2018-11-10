@@ -1,6 +1,6 @@
 #ifndef TARGET_H
 #define TARGET_H
-#include "Position.h";
+#include "Position.h"
 
 
 class Target
@@ -9,6 +9,7 @@ class Target
         Target(int x, int y);
         virtual ~Target();
         Position pos;
+
     protected:
     private:
 };

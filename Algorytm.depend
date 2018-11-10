@@ -34,7 +34,7 @@
 1540223315 d:\a\algorytm\include\target.h
 	"Position.h"
 
-1540766662 source:c:\users\robcyk\desktop\projects\algorytm\main.cpp
+1541846682 source:c:\users\robcyk\desktop\projects\algorytm\main.cpp
 	<iostream>
 	"include/Board.h"
 	"include/Robot.h"
@@ -42,22 +42,23 @@
 	"include/Step.h"
 	<list>
 	<algorithm>
+	<vector>
 
-1540766955 c:\users\robcyk\desktop\projects\algorytm\include\board.h
+1541847336 c:\users\robcyk\desktop\projects\algorytm\include\board.h
 	<iostream>
 	<fstream>
-	"Robot.h"
 	<list>
-	"Step.h"
-
-1540767206 c:\users\robcyk\desktop\projects\algorytm\include\robot.h
-	"Position.h"
 	"Step.h"
 	"Target.h"
 
+1541846714 c:\users\robcyk\desktop\projects\algorytm\include\robot.h
+	<list>
+	"Position.h"
+	"Step.h"
+
 1540223176 c:\users\robcyk\desktop\projects\algorytm\include\position.h
 
-1540715852 c:\users\robcyk\desktop\projects\algorytm\include\target.h
+1541846711 c:\users\robcyk\desktop\projects\algorytm\include\target.h
 	"Position.h"
 
 1540222394 source:c:\users\robcyk\desktop\projects\algorytm\src\board.cpp
@@ -72,11 +73,11 @@
 1540715853 source:c:\users\robcyk\desktop\projects\algorytm\src\target.cpp
 	"../include/Target.h"
 
-1540746096 source:c:\users\robcyk\desktop\projects\algorytm\src\step.cpp
+1541846567 source:c:\users\robcyk\desktop\projects\algorytm\src\step.cpp
 	"../include/Step.h"
 
-1540766717 c:\users\robcyk\desktop\projects\algorytm\include\step.h
-	"Target.h"
+1541846708 c:\users\robcyk\desktop\projects\algorytm\include\step.h
 	<iostream>
 	<math.h>
+	"Target.h"
 
